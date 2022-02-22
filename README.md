@@ -6,7 +6,7 @@ No IFPE, assim como no estado inteiro de Pernambuco, os casos de COVID e Gripe s
 ## Checklist das Atividades
 ### 1º Ciclo: Preparação e Planejamento
 - [x] Reunião com cliente (15/02/2022)
-- [x] [Formulário descrição do problema](/SGE/descricao-problema.md) (17/02/2022)
+- [x] [Formulário descrição do problema](/SGE/Descri%C3%A7%C3%A3o%20do%20Problema%20-%20Time%203.xlsx (17/02/2022)
 - [x] [Matriz SIPOC](/PGP/matriz-sipoc.pdf) (17/02/2022)
 - [x] [Diagrama de Escopo do Projeto](/GPN/diagrama-escopo.pdf) (17/02/2022)
 - [x] [Termo de Abertura](/PGP/termo-de-abertura.pdf) (22/02/2022)
