@@ -9,5 +9,5 @@ No IFPE, assim como no estado inteiro de Perrnambuco, os casos de COVID e Gripe 
 - [x] [Formulário descrição do problema](/SGE/descricao-problema.md) (17/02/2022)
 - [x] [Matriz SIPOC](/PGP/matriz-sipoc.pdf) (17/02/2022)
 - [x] [Diagrama de Escopo do Projeto](/GPN/diagrama-escopo.pdf) (17/02/2022)
-- [x] [Termo de Abertura](/PGP/termo-de-abertura.pdf) (25/02/2022)
-- [ ] [Apresentação Kickoff](/SGE/kickoff-apresentacao.pdf) (25/02/2022)
+- [x] [Termo de Abertura](/PGP/termo-de-abertura.pdf) (22/02/2022)
+- [ ] [Apresentação Kickoff](/SGE/kickoff-apresentacao.pdf) (22/02/2022)
