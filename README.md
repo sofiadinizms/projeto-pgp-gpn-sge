@@ -1,7 +1,7 @@
 # Gerenciamento de casos de gripe e COVID-19
 
 ## Introdução
-No IFPE, assim como no estado inteiro de Perrnambuco, os casos de COVID e Gripe são cada vez mais frequentes. Como eles possuem uma política de fechamento de setor/sala de acordo com a quantidade de infectados, sempre que alguém se contamina deve avisar o RH, para que possam manter o controle. Atualmente esse processo é manual (usa e-mail, gerenciamento de planilhas e emissão de relatórios), o que não colabora com a organização e aumenta a margem para erros.
+No IFPE, assim como no estado inteiro de Pernambuco, os casos de COVID e Gripe são cada vez mais frequentes. Como eles possuem uma política de fechamento de setor/sala de acordo com a quantidade de infectados, sempre que alguém se contamina deve avisar o RH, para que possam manter o controle. Atualmente esse processo é manual (usa e-mail, gerenciamento de planilhas e emissão de relatórios), o que não colabora com a organização e aumenta a margem para erros.
 
 ## Checklist das Atividades
 ### 1º Ciclo: Preparação e Planejamento
