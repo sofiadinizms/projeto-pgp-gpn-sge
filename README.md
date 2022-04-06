@@ -10,4 +10,5 @@ No IFPE, assim como no estado inteiro de Pernambuco, os casos de COVID e Gripe s
 - [x] [Matriz SIPOC](/PGP/matriz-sipoc.pdf) (17/02/2022)
 - [x] [Diagrama de Escopo do Projeto](/GPN/diagrama-escopo.pdf) (17/02/2022)
 - [x] [Termo de Abertura](/PGP/termo-de-abertura.pdf) (22/02/2022)
-- [ ] [Apresentação Kickoff](/SGE/kickoff-apresentacao.pdf) (22/02/2022)
+- [x] [Apresentação Kickoff](/SGE/kickoff-apresentacao.pdf) (22/02/2022)
+- [x] [Status Report 1] 
