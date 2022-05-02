@@ -11,4 +11,28 @@ No IFPE, assim como no estado inteiro de Pernambuco, os casos de COVID e Gripe s
 - [x] [Diagrama de Escopo do Projeto](/GPN/diagrama-escopo.pdf) (17/02/2022)
 - [x] [Termo de Abertura](/PGP/termo-de-abertura.pdf) (22/02/2022)
 - [x] [Apresentação Kickoff](/SGE/kickoff-apresentacao.pdf) (22/02/2022)
-- [x] [Status Report 1] 
+
+### 2º Ciclo: Entedimento do Problema e Análise da Solução
+
+### 3º Ciclo: Design da Solução
+
+### 4º Ciclo: Entrega da Solução
+
+## Stakeholders
+### Cliente
+* **Marco Eugênio** - *Diretor de Avaliação e Desenvolvimento de Tecnologia do IFPE*
+* **Comunidade Acadêmica do IFPE** - *Servidores/funcionários*
+
+### Consultoria
+* **Jéssyka Vilela** - *Gestão de Processos de Negócio*
+* **Simone Santos** - *Sistemas de Gestão Empresarial*
+* **Alexandre Vasconcelos** - *Planejamento de Gerenciamento de Projetos*
+
+### Equipe
+* **Maria Eduarda Feledi** - *Gerente de Projeto* - [MariaEduardaFeledi](https://github.com/MariaEduardaFeledi)
+* **Sofia Diniz** - *Integrante da Equipe* - [sofiadinizms](https://github.com/sofiadinizms)
+* **Allan Rodrigues** - *Integrante da Equipe* - [allanrr](https://github.com/allanrr)
+* **Vitor Malta** - *Integrante da Equipe* - [vitormalta](https://github.com/vitormalta)
+* **Belchior Silva** - *Integrante da Equipe* - [belchiors](https://github.com/belchiors)
+
+### Link para o [Trello](https://trello.com/b/E2CL1LAD/atividades-time-3)
