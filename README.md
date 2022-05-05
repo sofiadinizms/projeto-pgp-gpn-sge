@@ -13,10 +13,37 @@ No IFPE, assim como no estado inteiro de Pernambuco, os casos de COVID e Gripe s
 - [x] [Apresentação Kickoff](/SGE/kickoff-apresentacao.pdf) (22/02/2022)
 
 ### 2º Ciclo: Entedimento do Problema e Análise da Solução
+- [x] Fatores Críticos de Sucesso
+- [x] Matriz RACI
+- [x] Gerência de Escopo
+- [x] Gerência de Comunicação
+- [x] Plano de RH
+- [x] BPMN AS IS
 
 ### 3º Ciclo: Design da Solução
+- [x] Reunião com Cliente (04/04/22)
+- [x] Mapa de Categorização dos Problemas Encontrados
+- [x] Dois diagramas Ishikawa
+- [x] EAP do Projeto
+- [x] Valores de Negócio do Projeto
+- [x] BPMN TO BE
+- [x] Lista de Requisitos do Produto
+- [x] Orçamento e Plano de Custos
+- [x] Cronograma e Plano de Gestão do Tempo
+- [x] Plano de Gestão do Escopo e de Requisitos
+- [x] Cronograma das atividades
+- [x] Mockup MID FI
+- [x] Lista e Plano de Riscos
 
 ### 4º Ciclo: Entrega da Solução
+- [x] Termo de Encerramento
+- [x] Plano de Melhoria/Implantação
+- [x] Indicadores
+- [x] BPMN TO BE Refinado
+- [x] Roadmap do MVP
+- [x] Personas e Jornadas
+- [x] Mockup HI FI
+- [x] Postmortem
 
 ## Stakeholders
 ### Cliente
